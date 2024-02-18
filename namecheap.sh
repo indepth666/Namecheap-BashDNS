@@ -1,11 +1,11 @@
 #!/bin/bash
 
-myip=$(curl -s ifconfig.me)				                    # Retrieve the external IP address of the server
-mydomain="YOUR_DOMAIN_HERE"				                	# Namecheap domain to update
-myhost="YOUR_HOSTS_HERE"				                	# Domain hosts to update, separated by commas
-password="YOUR_PASSWORD_HERE"		                        # Security key for the DNS update API (replace with your actual key)
-logfile="YOUR_LOGFILE_PATH_HERE"		                   	# Define the log file path
-enable_logging=YOUR_LOGGING_PREFERENCE_HERE					# Enable or disable logging (set to 1 to enable, 0 to disable)
+myip=$(curl -s ifconfig.me)						# Retrieve the external IP address of the server
+mydomain="YOUR_DOMAIN_HERE"				               	# Namecheap domain to update
+myhost="YOUR_HOSTS_HERE"				               	# Domain hosts to update, separated by commas
+password="YOUR_PASSWORD_HERE"						# Security key for the DNS update API (replace with your actual key)
+logfile="YOUR_LOGFILE_PATH_HERE"					# Define the log file path
+enable_logging=YOUR_LOGGING_PREFERENCE_HERE				# Enable or disable logging (set to 1 to enable, 0 to disable)
 
 
 
