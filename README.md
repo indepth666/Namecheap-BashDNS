@@ -1,6 +1,6 @@
 # Namecheap-BashDNS
 
-A simple Bash script for automating DNS updates on Namecheap domains.
+A simple Bash script for automating dynamic DNS updates on Namecheap domains.
 
 ## Introduction
 
