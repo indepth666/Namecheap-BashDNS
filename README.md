@@ -25,6 +25,11 @@ Before running the script, you need to configure your domain information:
 
 ## Usage
 
+First, generate the configuration by using the following command:
+```bash
+./config-generator.sh
+```
+
 To run the script, simply execute it from the command line:
 
 ```bash
