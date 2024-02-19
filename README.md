@@ -67,8 +67,7 @@ Feel free to modify the script to suit your specific needs, such as adding error
 
 ## License
 
-This script is provided "as is", without warranty of any kind. You are free to use, modify, and distribute it as you see fit.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Contributing
 
 Contributions to the script are welcome! Please feel free to submit pull requests or report any issues you encounter.
